@@ -1,0 +1,4 @@
+{
+    "workspaceFolder": "SPFxWebParts",
+    "postCreateCommand": "git clone https://esextremeit@dev.azure.com/esextremeit/70316%20Digital%20Transformation%20EuroFragance%202022/_git/Client%20WebParts SPFxWebParts"
+}
